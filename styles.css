@@ -1,4 +1,22 @@
 body{
-  background-color: #A5EC71;
+  background-color: #7C31E5;
+  color: white;
+}
+nav{
+  background-color: #CC1DFF;
+  border-radius: 25px;
 
 }
+a{
+  text-decoration: none;
+}
+ul{
+  list-style-type: none;
+  padding: none;
+  margin: none;
+}
+li{
+  display: inline;
+  padding: 10px;
+}
+
